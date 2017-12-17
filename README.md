@@ -1,4 +1,4 @@
-# Major_Project
+# B-tech Major_Project
 
 Computer Aided Process Planing
 this project is about computer aided process planning .
